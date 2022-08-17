@@ -1,4 +1,3 @@
-
 package com.cbs.commerclient.service;
 
 import java.io.File;
@@ -41,7 +40,7 @@ public class RestClient {
         props.load(new FileInputStream(new File("config/config.ini")));    
         String  baseURI = props.getProperty("BASE_URI");
         client = javax.ws.rs.client.ClientBuilder.newClient();
-        webTarget = client.target(baseURI);
+        webTarget = client.target(baseURI).path(MAIN_METHOD_PATH);
         mapper = new ObjectMapper();      
     }
 
