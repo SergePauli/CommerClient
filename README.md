@@ -13,5 +13,5 @@ for  Java 8-10
  * заполнение ссылок на локальные файлы в карточке контракта (проект договора, протоколы, скан договора) через файл-мэнеджер ОС 
  * открытие файлов контракта в ассоциированых с их типами приложениях на клиентской ОС
 
- ![скрин](https://github.com/SergePauli/CommerClient/scrn.jpeg "Вид карточки CommerClient")
+ ![скрин](https://github.com/SergePauli/CommerClient/blob/master/scrn.jpeg "Вид карточки CommerClient")
 
