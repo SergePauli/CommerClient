@@ -1,5 +1,5 @@
 # CommerClient
-desktop-клиент на JavaFX для проекта ЦБС-контракты&CRM [ЦБС-контракты&CRM ](https://github.com/SergePauli/CRM_Java)
+desktop-клиент на JavaFX для проекта [Контракты и Контрагенты](https://github.com/SergePauli/CRM_Java)
 
 ## Simple JavaFX desktop client implementing the functionality of working with local files, not included in the web version due to security restrictions
 В JavaFX может использоваться язык разметки FXML, что позволило быстро создать интерфейс приложения,
